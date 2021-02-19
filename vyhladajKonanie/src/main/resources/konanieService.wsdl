@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:sch="datatypes.konanie.verejnost.ru.sk.hp.com" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="datatypes.konanie.verejnost.ru.sk.hp.com" targetNamespace="datatypes.konanie.verejnost.ru.sk.hp.com">
+    <wsdl:types>
+        <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="datatypes.konanie.verejnost.ru.sk.hp.com"><xs:element name="vyhladajKonanieRequest"><xs:complexType><xs:sequence><xs:element name="Query" type="xs:string"/><xs:element default="0" minOccurs="0" name="Stranka" type="xs:int"/><xs:element default="10" minOccurs="0" name="VysledkovNaStranku" type="xs:int"/><xs:element default="DatumPoslednejUdalosti" minOccurs="0" name="TypTriedenia" type="tns:TypTriedenia"/></xs:sequence></xs:complexType></xs:element><xs:element name="vyhladajKonanieResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element minOccurs="0" name="KonanieInfoList" type="tns:KonanieInfoList"/><xs:element default="0" name="VysledkovCelkom" type="xs:long"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonaniePodlaICORequest"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="Ico" type="xs:string"/><xs:element default="0" minOccurs="0" name="Stranka" type="xs:int"/><xs:element default="10" minOccurs="0" name="VysledkovNaStranku" type="xs:int"/><xs:element default="DatumPoslednejUdalosti" minOccurs="0" name="TypTriedenia" type="tns:TypTriedenia"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonaniePodlaICOResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element minOccurs="0" name="KonanieInfoList" type="tns:KonanieInfoList"/><xs:element default="0" name="VysledkovCelkom" type="xs:long"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonaniePreObdobieRequest"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="DatumOd" type="xs:date"/><xs:element name="DatumDo" type="xs:date"/><xs:element default="0" minOccurs="0" name="Stranka" type="xs:int"/><xs:element default="10" minOccurs="0" name="VysledkovNaStranku" type="xs:int"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonaniePreObdobieResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element minOccurs="0" name="KonanieInfoList" type="tns:KonanieInfoList"/><xs:element default="0" name="VysledkovCelkom" type="xs:long"/></xs:sequence></xs:complexType></xs:element><xs:element name="vyhladajPoslednuZmenuOdRequest"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element minOccurs="0" name="ZmenyOd" type="xs:dateTime"/><xs:element default="100" minOccurs="0" name="MaximalnyPocetVysledkov" type="xs:int"/></xs:sequence></xs:complexType></xs:element><xs:element name="vyhladajPoslednuZmenuOdResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="PoslednaZmenaNaKonaniList" type="tns:PoslednaZmenaNaKonaniList"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonanieDetailRequest"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="KonanieId" type="xs:string"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonanieDetailResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="Konanie" type="tns:Konanie"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonanieDetailPodlaZnackyASuduRequest"><xs:complexType><xs:annotation><xs:documentation>
+            Detail konania pre spisovÃº znaÄ�ku konania a id sÃºdu
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="KonanieZnacka" type="xs:string"/><xs:element name="KonanieSud" type="xs:string"/></xs:sequence></xs:complexType></xs:element><xs:element name="getKonanieDetailPodlaZnackyASuduResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="Konanie" type="tns:Konanie"/></xs:sequence></xs:complexType></xs:element><xs:element name="getZoznamSudovRequest"><xs:complexType><xs:annotation><xs:documentation>
+            Ciselnik sudov. Metoda poskytuje zoznam sudov. Pre kazdy sud poskytne udaje id a nazov.
+        </xs:documentation></xs:annotation><xs:sequence/></xs:complexType></xs:element><xs:element name="getZoznamSudovResponse"><xs:complexType><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element maxOccurs="unbounded" minOccurs="0" name="Sud" type="tns:Sud"/></xs:sequence></xs:complexType></xs:element><xs:complexType name="PoslednaZmenaNaKonaniList"><xs:sequence><xs:element maxOccurs="unbounded" minOccurs="0" name="PoslednaZmenaNaKonani" type="tns:PoslednaZmenaNaKonani"/></xs:sequence></xs:complexType><xs:complexType name="PoslednaZmenaNaKonani"><xs:attribute name="KonanieId" type="xs:string"/><xs:attribute name="PoslednaZmena" type="xs:dateTime"/></xs:complexType><xs:complexType name="KonanieInfoList"><xs:annotation><xs:documentation>
+
+        </xs:documentation></xs:annotation><xs:sequence><xs:element maxOccurs="unbounded" minOccurs="0" name="KonanieInfo" type="tns:KonanieInfo"/></xs:sequence></xs:complexType><xs:complexType name="KonanieInfo"><xs:sequence><xs:element name="Id" type="xs:long"/><xs:element name="SpisovaZnackaSpravcu" type="xs:string"/><xs:element name="SpisovaZnackaSudu" type="xs:string"/><xs:element minOccurs="0" name="Typ" type="tns:KonanieTyp"/><xs:element minOccurs="0" name="DatumZacatiaKonania" type="xs:date"/><xs:element minOccurs="0" name="DatumZacatiaProcesu" type="xs:date"/><xs:element minOccurs="0" name="DatumUkonceniaProcesu" type="xs:date"/><xs:element minOccurs="0" name="DovodUkonceniaProcesu" type="xs:string"/><xs:element minOccurs="0" name="DatumPodania" type="xs:date"/><xs:element minOccurs="0" name="Dlznik" type="xs:string"/><xs:element minOccurs="0" name="DlznikIco" type="xs:string"/><xs:element minOccurs="0" name="DlznikDatumNarodenia" type="xs:date"/><xs:element minOccurs="0" name="PoslednaUdalost" type="xs:string"/><xs:element minOccurs="0" name="DatumPoslednejUdalosti" type="xs:date"/><xs:element minOccurs="0" name="Sud" type="xs:string"/><xs:element minOccurs="0" name="SudNazov" type="xs:string"/><xs:element minOccurs="0" name="Spravca" type="xs:string"/><xs:element minOccurs="0" name="TypSpravcu" type="tns:TypSpravcuNaKonani"/><xs:element minOccurs="0" name="TypPrideleniaSpravcu" type="tns:TypPrideleniaSpravcu"/><xs:element name="StavKonania" type="xs:string"/></xs:sequence></xs:complexType><xs:simpleType name="KonanieTyp"><xs:restriction base="xs:string"><xs:enumeration value="RESTRUKTURALIZACIA"/><xs:enumeration value="KONKURZ"/><xs:enumeration value="ODDLZENIE_KONKURZ"/><xs:enumeration value="ODDLZENIE_SPLATKOVY_KALENDAR"/><xs:enumeration value="INE"/></xs:restriction></xs:simpleType><xs:simpleType name="TypSpravcuNaKonani"><xs:restriction base="xs:string"><xs:enumeration value="RIADNY"/><xs:enumeration value="PREDBEZNY"/></xs:restriction></xs:simpleType><xs:simpleType name="TypPrideleniaSpravcu"><xs:restriction base="xs:string"><xs:enumeration value="GENEROVANY"/><xs:enumeration value="VYMENOVANY"/></xs:restriction></xs:simpleType><xs:simpleType name="TypTriedenia"><xs:restriction base="xs:string"><xs:enumeration value="Relevancia"/><xs:enumeration value="DatumZacatiaKonania"/><xs:enumeration value="DatumPoslednejUdalosti"/></xs:restriction></xs:simpleType><xs:complexType name="Konanie"><xs:sequence><xs:element name="Id" type="xs:long"/><xs:element name="SpisovaZnackaSpravcu" type="xs:string"/><xs:element name="SpisovaZnackaSudu" type="xs:string"/><xs:element minOccurs="0" name="Typ" type="tns:KonanieTyp"/><xs:element maxOccurs="unbounded" name="Navrhovatel" type="tns:Osoba"/><xs:element name="Dlznik" type="tns:Osoba"/><xs:element name="Sud" type="tns:Sud"/><xs:element minOccurs="0" name="Sudca" type="xs:string"/><xs:element name="Spravca" type="tns:Spravca"/><xs:element name="DatumZacatiaKonania" type="xs:date"/><xs:element name="DatumZacatiaProcesu" type="xs:date"/><xs:element minOccurs="0" name="TypSpravcu" type="tns:TypSpravcuNaKonani"/><xs:element minOccurs="0" name="TypPrideleniaSpravcu" type="tns:TypPrideleniaSpravcu"/><xs:element minOccurs="0" name="TypKonaniaPodlaUzemnejPlatnosti" type="xs:string"/></xs:sequence></xs:complexType><xs:complexType name="Konkurz"><xs:complexContent><xs:extension base="tns:Konanie"><xs:sequence minOccurs="0"><xs:element name="MalyKonkurz" type="xs:boolean"/><xs:element name="DatumPovoleniaOddlzenia" type="xs:date"/></xs:sequence></xs:extension></xs:complexContent></xs:complexType><xs:complexType name="Restrukturalizacia"><xs:complexContent><xs:extension base="tns:Konanie"><xs:sequence minOccurs="0"><xs:element name="DatumZavedeniaDozornejSpravy" type="xs:date"/></xs:sequence></xs:extension></xs:complexContent></xs:complexType><xs:complexType name="OddlzenieKonkurz"><xs:complexContent><xs:extension base="tns:Konanie"/></xs:complexContent></xs:complexType><xs:complexType name="OddlzenieSplatkovyKalendar"><xs:complexContent><xs:extension base="tns:Konanie"/></xs:complexContent></xs:complexType><xs:complexType name="Osoba"><xs:sequence minOccurs="0"><xs:element minOccurs="0" name="Adresa" type="tns:Adresa"/><xs:element minOccurs="0" name="Telefon" type="xs:string"/><xs:element minOccurs="0" name="Email" type="xs:string"/><xs:element minOccurs="0" name="BankovyUcet" type="tns:BankovyUcet"/></xs:sequence></xs:complexType><xs:complexType name="FyzickaOsoba"><xs:complexContent><xs:extension base="tns:Osoba"><xs:sequence><xs:element name="Meno" type="xs:string"/><xs:element name="Priezvisko" type="xs:string"/><xs:element minOccurs="0" name="TitulPredMenom" type="xs:string"/><xs:element minOccurs="0" name="TitulZaMenom" type="xs:string"/><xs:element name="RodneCislo" type="xs:string"/><xs:element name="DatumNarodenia" type="xs:date"/><xs:element minOccurs="0" name="StatneObcianstvo" type="xs:string"/></xs:sequence></xs:extension></xs:complexContent></xs:complexType><xs:complexType name="FyzickaOsobaPodnikatel"><xs:complexContent><xs:extension base="tns:Osoba"><xs:sequence><xs:element name="ObchodneMeno" type="xs:string"/><xs:element name="Meno" type="xs:string"/><xs:element name="Priezvisko" type="xs:string"/><xs:element minOccurs="0" name="TitulPredMenom" type="xs:string"/><xs:element minOccurs="0" name="TitulZaMenom" type="xs:string"/><xs:element name="Ico" type="xs:string"/><xs:element name="Register" type="xs:string"/><xs:element name="CisloRegistracie" type="xs:string"/></xs:sequence></xs:extension></xs:complexContent></xs:complexType><xs:complexType name="PravnickaOsoba"><xs:complexContent><xs:extension base="tns:Osoba"><xs:sequence><xs:element name="ObchodneMeno" type="xs:string"/><xs:element name="Ico" type="xs:string"/><xs:element name="PravnaForma" type="xs:string"/><xs:element name="Register" type="xs:string"/><xs:element name="CisloRegistracie" type="xs:string"/></xs:sequence></xs:extension></xs:complexContent></xs:complexType><xs:complexType name="Sud"><xs:sequence><xs:element name="id" type="xs:string"/><xs:element minOccurs="0" name="nazov" type="xs:string"/></xs:sequence></xs:complexType><xs:complexType name="Spravca"><xs:sequence><xs:element name="Znacka" type="xs:string"/><xs:element minOccurs="0" name="DatumZapisu" type="xs:date"/><xs:element name="Meno" type="xs:string"/><xs:element name="Priezvisko" type="xs:string"/><xs:element minOccurs="0" name="TitulPredMenom" type="xs:string"/><xs:element minOccurs="0" name="TitulZaMenom" type="xs:string"/><xs:element minOccurs="0" name="DatumNarodenia" type="xs:date"/><xs:element minOccurs="0" name="ObchodneMeno" type="xs:string"/><xs:element minOccurs="0" name="Ico" type="xs:string"/><xs:element minOccurs="0" name="Adresa" type="tns:Adresa"/><xs:element minOccurs="0" name="Telefon" type="xs:string"/><xs:element minOccurs="0" name="Email" type="xs:string"/></xs:sequence></xs:complexType><xs:complexType name="Adresa"><xs:annotation><xs:documentation>
+            Obsahuje atribÃºty inÅ¡tancie typu Adresa:
+            ulica - ulica adresy
+            supisneCislo - supisnÃ© Ä�Ã­slo adresy
+            orientacneCislo - orientaÄ�nÃ© Ä�Ã­slo adresy
+            obec - obec adresy
+            psc - PSÄŒ adresy
+            krajina - krajina adresy
+        </xs:documentation></xs:annotation><xs:sequence><xs:element name="Ulica" type="xs:string"/><xs:element minOccurs="0" name="SupisneCislo" type="xs:string"/><xs:element minOccurs="0" name="OrientacneCislo" type="xs:string"/><xs:element name="Obec" type="xs:string"/><xs:element name="Psc" type="xs:string"/><xs:element name="Krajina" type="xs:string"/></xs:sequence></xs:complexType><xs:complexType name="BankovyUcet"><xs:sequence><xs:element name="Iban" type="xs:string"/><xs:element minOccurs="0" name="Swift" type="xs:string"/></xs:sequence></xs:complexType></xs:schema>
+    </wsdl:types>
+    <wsdl:message name="vyhladajKonanieResponse">
+        <wsdl:part element="tns:vyhladajKonanieResponse" name="vyhladajKonanieResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonanieDetailPodlaZnackyASuduResponse">
+        <wsdl:part element="tns:getKonanieDetailPodlaZnackyASuduResponse" name="getKonanieDetailPodlaZnackyASuduResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getZoznamSudovRequest">
+        <wsdl:part element="tns:getZoznamSudovRequest" name="getZoznamSudovRequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="vyhladajPoslednuZmenuOdResponse">
+        <wsdl:part element="tns:vyhladajPoslednuZmenuOdResponse" name="vyhladajPoslednuZmenuOdResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonanieDetailRequest">
+        <wsdl:part element="tns:getKonanieDetailRequest" name="getKonanieDetailRequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="vyhladajKonanieRequest">
+        <wsdl:part element="tns:vyhladajKonanieRequest" name="vyhladajKonanieRequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="vyhladajPoslednuZmenuOdRequest">
+        <wsdl:part element="tns:vyhladajPoslednuZmenuOdRequest" name="vyhladajPoslednuZmenuOdRequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonanieDetailResponse">
+        <wsdl:part element="tns:getKonanieDetailResponse" name="getKonanieDetailResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonaniePreObdobieRequest">
+        <wsdl:part element="tns:getKonaniePreObdobieRequest" name="getKonaniePreObdobieRequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonanieDetailPodlaZnackyASuduRequest">
+        <wsdl:part element="tns:getKonanieDetailPodlaZnackyASuduRequest" name="getKonanieDetailPodlaZnackyASuduRequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonaniePodlaICORequest">
+        <wsdl:part element="tns:getKonaniePodlaICORequest" name="getKonaniePodlaICORequest">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonaniePodlaICOResponse">
+        <wsdl:part element="tns:getKonaniePodlaICOResponse" name="getKonaniePodlaICOResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getKonaniePreObdobieResponse">
+        <wsdl:part element="tns:getKonaniePreObdobieResponse" name="getKonaniePreObdobieResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getZoznamSudovResponse">
+        <wsdl:part element="tns:getZoznamSudovResponse" name="getZoznamSudovResponse">
+        </wsdl:part>
+    </wsdl:message>
+    <wsdl:portType name="KonanieServicePort">
+        <wsdl:operation name="vyhladajKonanie">
+            <wsdl:input message="tns:vyhladajKonanieRequest" name="vyhladajKonanieRequest">
+            </wsdl:input>
+            <wsdl:output message="tns:vyhladajKonanieResponse" name="vyhladajKonanieResponse">
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonanieDetailPodlaZnackyASudu">
+            <wsdl:input message="tns:getKonanieDetailPodlaZnackyASuduRequest" name="getKonanieDetailPodlaZnackyASuduRequest">
+            </wsdl:input>
+            <wsdl:output message="tns:getKonanieDetailPodlaZnackyASuduResponse" name="getKonanieDetailPodlaZnackyASuduResponse">
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getZoznamSudov">
+            <wsdl:input message="tns:getZoznamSudovRequest" name="getZoznamSudovRequest">
+            </wsdl:input>
+            <wsdl:output message="tns:getZoznamSudovResponse" name="getZoznamSudovResponse">
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="vyhladajPoslednuZmenuOd">
+            <wsdl:input message="tns:vyhladajPoslednuZmenuOdRequest" name="vyhladajPoslednuZmenuOdRequest">
+            </wsdl:input>
+            <wsdl:output message="tns:vyhladajPoslednuZmenuOdResponse" name="vyhladajPoslednuZmenuOdResponse">
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonanieDetail">
+            <wsdl:input message="tns:getKonanieDetailRequest" name="getKonanieDetailRequest">
+            </wsdl:input>
+            <wsdl:output message="tns:getKonanieDetailResponse" name="getKonanieDetailResponse">
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonaniePreObdobie">
+            <wsdl:input message="tns:getKonaniePreObdobieRequest" name="getKonaniePreObdobieRequest">
+            </wsdl:input>
+            <wsdl:output message="tns:getKonaniePreObdobieResponse" name="getKonaniePreObdobieResponse">
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonaniePodlaICO">
+            <wsdl:input message="tns:getKonaniePodlaICORequest" name="getKonaniePodlaICORequest">
+            </wsdl:input>
+            <wsdl:output message="tns:getKonaniePodlaICOResponse" name="getKonaniePodlaICOResponse">
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="KonanieServicePortSoap11" type="tns:KonanieServicePort">
+        <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <wsdl:operation name="vyhladajKonanie">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="vyhladajKonanieRequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="vyhladajKonanieResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonanieDetailPodlaZnackyASudu">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="getKonanieDetailPodlaZnackyASuduRequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="getKonanieDetailPodlaZnackyASuduResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getZoznamSudov">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="getZoznamSudovRequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="getZoznamSudovResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="vyhladajPoslednuZmenuOd">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="vyhladajPoslednuZmenuOdRequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="vyhladajPoslednuZmenuOdResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonanieDetail">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="getKonanieDetailRequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="getKonanieDetailResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonaniePreObdobie">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="getKonaniePreObdobieRequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="getKonaniePreObdobieResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="getKonaniePodlaICO">
+            <soap:operation soapAction=""/>
+            <wsdl:input name="getKonaniePodlaICORequest">
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output name="getKonaniePodlaICOResponse">
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="KonanieServicePortService">
+        <wsdl:port binding="tns:KonanieServicePortSoap11" name="KonanieServicePortSoap11">
+            <soap:address location="https://ru-wst.justice.sk/ru-verejnost-ws/"/>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>

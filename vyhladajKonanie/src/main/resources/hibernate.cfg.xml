@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://192.168.80.131:3306/soapdemo</property>
+        <property name="hibernate.connection.username">arpi</property>
+        <property name="hibernate.connection.password">Password123456!@#$%^</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        <property name="hbm2ddl.auto">update </property>
+        <mapping class="com.dxc.hibernate.Request" resource="automata_pojo_hibernate/hibernate/Request.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.CsroService" resource="automata_pojo_hibernate/hibernate/CsroService.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.RequestItems" resource="automata_pojo_hibernate/hibernate/RequestItems.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.RequestParameters" resource="automata_pojo_hibernate/hibernate/RequestParameters.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.Response" resource="automata_pojo_hibernate/hibernate/Response.hbm.xml"/>
+        <mapping class="acom.dxc.hibernate.ServiceProvider" resource="automata_pojo_hibernate/hibernate/ServiceProvider.hbm.xml"/>
+    </session-factory>
+</hibernate-configuration>

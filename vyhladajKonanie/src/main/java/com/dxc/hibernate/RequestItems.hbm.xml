@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 27-Mar-2020 11:11:50 by Hibernate Tools 5.4.3.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping auto-import="true" default-access="property" default-cascade="none" default-lazy="true">
+    <class catalog="soapdemo" dynamic-insert="false" dynamic-update="false" mutable="true" name="com.dxc.hibernate.RequestItems" optimistic-lock="version" polymorphism="implicit" select-before-update="false" table="Request_Items">
+        <composite-id class="automata_pojo_hibernate.hibernate.RequestItemsId" mapped="false" name="id" unsaved-value="undefined">
+            <key-property name="requestItemsId" type="int">
+                <column name="Request_Items_id"/>
+            </key-property>
+            <key-property name="serviceProviderId" type="java.lang.Integer">
+                <column name="Service_Provider_id"/>
+            </key-property>
+            <key-property name="methodCallDatetime" type="timestamp">
+                <column length="19" name="method_call_datetime"/>
+            </key-property>
+            <key-property name="status" type="java.lang.Integer">
+                <column name="status"/>
+            </key-property>
+            <key-property name="csruServiceId" type="java.lang.Integer">
+                <column name="CSRU_Service_id"/>
+            </key-property>
+            <key-property name="requestId" type="java.lang.Integer">
+                <column name="Request_id"/>
+            </key-property>
+        </composite-id>
+    </class>
+</hibernate-mapping>

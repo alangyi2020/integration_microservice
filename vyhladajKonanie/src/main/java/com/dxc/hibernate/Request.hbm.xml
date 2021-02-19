@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 27-Mar-2020 11:11:50 by Hibernate Tools 5.4.3.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping auto-import="true" default-access="property" default-cascade="none" default-lazy="true">
+    <class catalog="soapdemo" dynamic-insert="false" dynamic-update="false" mutable="true" name="com.dxc.hibernate.Request" optimistic-lock="version" polymorphism="implicit" select-before-update="false" table="Request">
+        <composite-id class="automata_pojo_hibernate.hibernate.RequestId" mapped="false" name="id" unsaved-value="undefined">
+            <key-property name="requestId" type="int">
+                <column name="request_id"/>
+            </key-property>
+            <key-property name="serviceProviderId" type="int">
+                <column name="Service_Provider_id"/>
+            </key-property>
+        </composite-id>
+        <property generated="never" lazy="false" name="requestDatetime" optimistic-lock="true" type="timestamp" unique="false">
+            <column length="19" name="request_datetime" not-null="true"/>
+        </property>
+        <property generated="never" lazy="false" name="responseDatetime" optimistic-lock="true" type="timestamp" unique="false">
+            <column length="19" name="response_datetime"/>
+        </property>
+        <property generated="never" lazy="false" name="csruServiceId" optimistic-lock="true" type="java.lang.Integer" unique="false">
+            <column name="CSRU_Service_id"/>
+        </property>
+    </class>
+</hibernate-mapping>
