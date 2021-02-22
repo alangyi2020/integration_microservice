@@ -84,7 +84,7 @@ public class CsroServiceHome {
         log.debug("getting CsroService instance with id: " + id);
         try {
             CsroService instance = (CsroService) sessionFactory.getCurrentSession()
-                    .get("automata_pojo_hibernate.hibernate.CsroService", id);
+                    .get("com.dxc.hibernate.CsroService", id);
             if (instance == null) {
                 log.debug("get successful, no instance found");
             } else {
@@ -101,7 +101,7 @@ public class CsroServiceHome {
         log.debug("finding CsroService instance by example");
         try {
             List results = sessionFactory.getCurrentSession()
-                    .createCriteria("automata_pojo_hibernate.hibernate.CsroService").add(Example.create(instance))
+                    .createCriteria("com.dxc.hibernate.CsroService").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());
             return results;

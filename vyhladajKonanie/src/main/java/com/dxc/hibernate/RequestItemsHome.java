@@ -88,7 +88,7 @@ public class RequestItemsHome {
         log.debug("getting RequestItems instance with id: " + id);
         try {
             RequestItems instance = (RequestItems) sessionFactory.getCurrentSession()
-                    .get("automata_pojo_hibernate.hibernate.RequestItems", id);
+                    .get("com.dxc.hibernate.RequestItems", id);
             if (instance == null) {
                 log.debug("get successful, no instance found");
             } else {
@@ -105,7 +105,7 @@ public class RequestItemsHome {
         log.debug("finding RequestItems instance by example");
         try {
             List results = sessionFactory.getCurrentSession()
-                    .createCriteria("automata_pojo_hibernate.hibernate.RequestItems").add(Example.create(instance))
+                    .createCriteria("com.dxc.hibernate.RequestItems").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());
             return results;

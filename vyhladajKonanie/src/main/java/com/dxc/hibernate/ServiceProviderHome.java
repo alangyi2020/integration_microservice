@@ -88,7 +88,7 @@ public class ServiceProviderHome {
         log.debug("getting ServiceProvider instance with id: " + id);
         try {
             ServiceProvider instance = (ServiceProvider) sessionFactory.getCurrentSession()
-                    .get("automata_pojo_hibernate.hibernate.ServiceProvider", id);
+                    .get("com.dxc.hibernate.ServiceProvider", id);
             if (instance == null) {
                 log.debug("get successful, no instance found");
             } else {
@@ -105,7 +105,7 @@ public class ServiceProviderHome {
         log.debug("finding ServiceProvider instance by example");
         try {
             List results = sessionFactory.getCurrentSession()
-                    .createCriteria("automata_pojo_hibernate.hibernate.ServiceProvider").add(Example.create(instance))
+                    .createCriteria("com.dxc.hibernate.ServiceProvider").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());
             return results;

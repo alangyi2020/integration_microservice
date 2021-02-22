@@ -2,7 +2,7 @@
 <!-- Generated 27-Mar-2020 11:11:50 by Hibernate Tools 5.4.3.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 <hibernate-mapping auto-import="true" default-access="property" default-cascade="none" default-lazy="true">
     <class catalog="soapdemo" dynamic-insert="false" dynamic-update="false" mutable="true" name="com.dxc.hibernate.RequestItems" optimistic-lock="version" polymorphism="implicit" select-before-update="false" table="Request_Items">
-        <composite-id class="automata_pojo_hibernate.hibernate.RequestItemsId" mapped="false" name="id" unsaved-value="undefined">
+        <composite-id class="com.dxc.hibernate.RequestItemsId" mapped="false" name="id" unsaved-value="undefined">
             <key-property name="requestItemsId" type="int">
                 <column name="Request_Items_id"/>
             </key-property>

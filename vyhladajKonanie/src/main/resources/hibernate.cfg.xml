@@ -18,6 +18,6 @@
         <mapping class="com.dxc.hibernate.RequestItems" resource="automata_pojo_hibernate/hibernate/RequestItems.hbm.xml"/>
         <mapping class="com.dxc.hibernate.RequestParameters" resource="automata_pojo_hibernate/hibernate/RequestParameters.hbm.xml"/>
         <mapping class="com.dxc.hibernate.Response" resource="automata_pojo_hibernate/hibernate/Response.hbm.xml"/>
-        <mapping class="acom.dxc.hibernate.ServiceProvider" resource="automata_pojo_hibernate/hibernate/ServiceProvider.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.ServiceProvider" resource="automata_pojo_hibernate/hibernate/ServiceProvider.hbm.xml"/>
     </session-factory>
 </hibernate-configuration>

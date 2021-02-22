@@ -88,7 +88,7 @@ public class RequestHome {
         log.debug("getting Request instance with id: " + id);
         try {
             Request instance = (Request) sessionFactory.getCurrentSession()
-                    .get("automata_pojo_hibernate.hibernate.Request", id);
+                    .get("com.dxc.hibernate.Request", id);
             if (instance == null) {
                 log.debug("get successful, no instance found");
             } else {
@@ -105,7 +105,7 @@ public class RequestHome {
         log.debug("finding Request instance by example");
         try {
             List results = sessionFactory.getCurrentSession()
-                    .createCriteria("automata_pojo_hibernate.hibernate.Request").add(Example.create(instance)).list();
+                    .createCriteria("com.dxc.hibernate.Request").add(Example.create(instance)).list();
             log.debug("find by example successful, result size: " + results.size());
             return results;
         } catch (RuntimeException re) {

@@ -88,7 +88,7 @@ public class RequestParametersHome {
         log.debug("getting RequestParameters instance with id: " + id);
         try {
             RequestParameters instance = (RequestParameters) sessionFactory.getCurrentSession()
-                    .get("automata_pojo_hibernate.hibernate.RequestParameters", id);
+                    .get("com.dxc.hibernate.RequestParameters", id);
             if (instance == null) {
                 log.debug("get successful, no instance found");
             } else {
@@ -105,7 +105,7 @@ public class RequestParametersHome {
         log.debug("finding RequestParameters instance by example");
         try {
             List results = sessionFactory.getCurrentSession()
-                    .createCriteria("automata_pojo_hibernate.hibernate.RequestParameters").add(Example.create(instance))
+                    .createCriteria("com.dxc.hibernate.RequestParameters").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());
             return results;
