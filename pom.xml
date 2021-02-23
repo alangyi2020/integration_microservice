@@ -5,6 +5,7 @@
     <modules>
         <module>vyhladajKonanie</module>
         <module>integracia</module>
+        <module>soapServiceCall</module>
     </modules>
     <dependencies>
 		<dependency>

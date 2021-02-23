@@ -13,11 +13,11 @@
         <property name="show_sql">true</property>
         <property name="format_sql">true</property>
         <property name="hbm2ddl.auto">update </property>
-        <mapping class="com.dxc.hibernate.Request" resource="automata_pojo_hibernate/hibernate/Request.hbm.xml"/>
-        <mapping class="com.dxc.hibernate.CsroService" resource="automata_pojo_hibernate/hibernate/CsroService.hbm.xml"/>
-        <mapping class="com.dxc.hibernate.RequestItems" resource="automata_pojo_hibernate/hibernate/RequestItems.hbm.xml"/>
-        <mapping class="com.dxc.hibernate.RequestParameters" resource="automata_pojo_hibernate/hibernate/RequestParameters.hbm.xml"/>
-        <mapping class="com.dxc.hibernate.Response" resource="automata_pojo_hibernate/hibernate/Response.hbm.xml"/>
-        <mapping class="com.dxc.hibernate.ServiceProvider" resource="automata_pojo_hibernate/hibernate/ServiceProvider.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.Request" resource="com/dxc/hibernate/Request.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.CsroService" resource="com/dxc/hibernate/CsroService.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.RequestItems" resource="com/dxc/hibernate/RequestItems.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.RequestParameters" resource="com/dxc/hibernate/RequestParameters.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.Response" resource="com/dxc/hibernate/Response.hbm.xml"/>
+        <mapping class="com.dxc.hibernate.ServiceProvider" resource="com/dxc/hibernate/ServiceProvider.hbm.xml"/>
     </session-factory>
 </hibernate-configuration>

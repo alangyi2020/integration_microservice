@@ -27,6 +27,26 @@ public class sqlQuery {
         rv = rv.substring(0,rv.length() - 1);
         //session.close();
         System.out.println("return value = " + rv);
+        session.close();
         return rv;
+    }
+
+    public void update(String sqlQuery) {
+
+        Session session = HibernateUtil.getSessionFactory().openSession();
+        Transaction tx = session.beginTransaction();
+
+        //Transaction tx = session.beginTransaction();
+        SQLQuery query = session.createSQLQuery(sqlQuery);
+
+        int a = query.executeUpdate();
+
+        query = session.createSQLQuery("commit");
+        a = query.executeUpdate();
+
+
+        session.flush();
+        session.close();
+
     }
 }

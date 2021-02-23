@@ -1,6 +1,6 @@
 package com.dxc.hibernate;
 
-public class RequestItems implements java.io.Serializable {
+public class RequestItems  {
 
     /**
      *
@@ -9,6 +9,7 @@ public class RequestItems implements java.io.Serializable {
     private RequestItemsId id;
 
     public RequestItems() {
+        System.out.println("ajkakjakjak");
     }
 
     public RequestItems(RequestItemsId id) {

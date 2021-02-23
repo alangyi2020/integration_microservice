@@ -1,5 +1,6 @@
 package com.dxc.integration.microservice;
 
+import com.dxc.hibernate.HibernateUtil;
 import com.dxc.integration.microservice.runner.StreamRunner;
 import com.dxc.integration.microservice.init.StreamInitializer;
 
@@ -10,6 +11,8 @@ import org.springframework.context.annotation.ComponentScan;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import javax.annotation.PreDestroy;
 
 @SpringBootApplication
 @ComponentScan(basePackages = "com.dxc")
@@ -36,5 +39,11 @@ public class integraciaApplication implements CommandLineRunner {
         LOG.info("App starts...");
         streamInitializer.init();
         streamRunner.start();
+    }
+
+    @PreDestroy
+    public void onDestroy() throws Exception {
+        HibernateUtil.shutdown();
+        System.out.println("Spring Container is destroyed!");
     }
 }
