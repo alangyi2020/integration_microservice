@@ -1,10 +1,16 @@
 package com.dxc.soapcall;
 
+
+import com.dxc.common_tools.Write_Xml;
+import com.dxc.common_tools.XMLUtil;
 import com.dxc.hibernate.*;
 
+import java.lang.reflect.Method;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
+
 
 public class vyhladajKonanie {
     public String callVyhladajKonanie(int request_id) throws SQLException {
@@ -24,7 +30,7 @@ public class vyhladajKonanie {
             }
 
             //Load request_parameters by request_id
-            List<RequestParameters> request_parameters = factory.getRequest_parametersByServiceProviderId(CSRU_Service_id);
+            List<RequestParameters> request_parameters = factory.getRequest_parametersByServiceProviderId(provider_id);
 
             int max_Request_Items_id = factory.get_max_Request_Items_id();
             System.out.println(max_Request_Items_id);
@@ -64,6 +70,78 @@ public class vyhladajKonanie {
 
                 for (RequestItems ri : Req_Items) {
                     System.out.println("Prepared not finished request_items: " + ri.toString());
+                    ServiceProvider sp = factory.getService_Provider(ri.getId().getServiceProviderId() /*Service_Provider_id()*/);
+                    serc_prov.add(sp);
+                    System.out.println("Service_provider: " + sp.toString());
+                    String sp_name = sp.getMethodName();
+                    int call_s = 3;
+                    String ResponseXml = "";
+                    String myFile = "";
+
+                    I_vyhladajKonanie o_vyhladajKonanie = null;
+                    o_vyhladajKonanie = new I_vyhladajKonanie();
+                    o_vyhladajKonanie.setURL(sp.getWsdlUrl());
+
+                    for(RequestParameters re_pa:  factory.getRequest_parameters_by_SP_ID(sp.getServiceProviderId(), request_parameters)) {
+                        System.out.println("Service_parameter = " + re_pa.toString());
+                        String met_name = "set"+re_pa.getId().getParameterName();
+                        System.out.println(met_name);
+                        String par_value = re_pa.getId().getParameterValue();
+                        System.out.println(par_value);
+
+                        Method m = I_vyhladajKonanie.class.getDeclaredMethod(met_name,String.class);
+                        m.invoke(o_vyhladajKonanie, par_value);
+                    }
+                    ri.getId().setMethodCallDatetime(new Date());
+                    ri.getId().setStatus(2);   /*setstatus(2);*/
+                    System.out.println("Status set for request_items: " + ri.toString());
+                    factory.updateRequest_Items(ri);
+
+                    //factory.session.update(ri);
+                    //factory.commit();
+                    Date myDate = new Date();
+                    
+                    call_s =  o_vyhladajKonanie.callService();
+                    ResponseXml = XMLUtil.toXML(o_vyhladajKonanie.getVyhladajKonanieResponse());
+                    myFile = "VyhladajKonanieResponse_" + request_id + "_" +  myDate.getTime() + ".xml";
+
+                    if( call_s== 0) {
+                        ri.getId().setStatus(0);
+                        System.out.println("request_items finished: " + ri.toString());
+                        System.out.println("request_items update: " + ri.toSave());
+                        //factory.execute_update(ri.toSave());
+                        //factory.session.update(ri);
+                        factory.updateRequest_Items(ri);
+                        //factory.commit();
+                        //factory.setRequest_ResponseTime(ri.getId().getRequestId(),ri.getId().getServiceProviderId());
+                        Write_Xml write = new Write_Xml();
+                        //System.out.println(myFile);
+                        write.whenWriteStringUsingBufferedWritter_thenCorrect(outDir,myFile, ResponseXml);
+                        //System.out.println(ResponseXml);
+                    } else {
+                        ri.getId().setStatus(1);
+
+                        //factory.session.update(ri);
+                        factory.updateRequest_Items(ri);
+                    }
+                    callResult = callResult + call_s;
+
+                }
+                System.out.println("****************************Handle response****************************\n");
+                System.out.println(callResult);
+                Date respDate = new Date();
+                if(callResult == 0) {
+                    Response resp = new Response();
+                    resp.setRequestId(request_id);
+                    resp.setCsruServiceId(CSRU_Service_id);
+                    resp.setResponseDate(respDate);
+                    resp.setOutputDir(outDir);
+                    //factory.session.save(resp);
+                    factory.insertIntoResponse(resp);
+                    return_value = "OK|0|" + request_id + "|";
+                } else {
+                    //factory.close();
+                    return_value =  "ERROR|2|" + request_id + "|";
                 }
 
 
@@ -71,19 +149,13 @@ public class vyhladajKonanie {
 
 
 
-
-
-
-
-            return_value = "" + max_Request_Items_id + " request_type = " + request_type;
-
         } catch (Exception e) {
             return_value =   e.getMessage() + "|3|"  + request_id + "|";
 
         } finally {
             //factory.close();
             factory.commit();
-            factory.close();
+            //factory.close();
         }
 
         return return_value;

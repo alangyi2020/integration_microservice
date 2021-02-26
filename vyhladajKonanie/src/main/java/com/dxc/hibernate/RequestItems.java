@@ -23,6 +23,10 @@ public class RequestItems  {
     public void setId(RequestItemsId id) {
         this.id = id;
     }
+    
+    public int getRequestItemsId() {
+    	return this.id.getRequestId();
+    }
 
     @Override
     public String toString() {

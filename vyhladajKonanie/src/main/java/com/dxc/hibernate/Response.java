@@ -60,5 +60,17 @@ public class Response implements java.io.Serializable {
     public void setCsruServiceId(int csruServiceId) {
         this.csruServiceId = csruServiceId;
     }
+    public String toSave(Response resp) {
+        StringBuilder sb = new StringBuilder();
+        // sb.append("Request_Items_id: ").append(id.getRequestItemsId()).append(" Service_Provider_id: ").append(id.getServiceProviderId()).append(" method_call_datetime: ").append(id.getMethodCallDatetime()).append(" status: ").append(id.getStatus()).append(" CSRU_Service_id ").append(id.getCsruServiceId()).append(" Request_id ").append(id.getRequestItemsId()).append("\n");
+        //sb.append("update soapdemo.Request_Items set Service_Provider_id = ").append(id.getServiceProviderId()).append(", method_call_datetime = now()").append(", status = ").append(id.getStatus()).append(", CSRU_Service_id = ").append(id.getCsruServiceId()).append(", Request_id = ").append(id.getRequestItemsId()).append(" where Request_Items_id = ").append(id.getRequestItemsId());
+        
+        sb.append("insert into soapdemo.Response (request_id,OutputDir,response_date,CSRU_Service_id) VALUES (").append(resp.getRequestId())
+        .append(",'").append(resp.getOutputDir())
+                .append("',now(),").append(Integer.toString(resp.getCsruServiceId())).append(")");
+        
+
+        return sb.toString();
+    }
 
 }

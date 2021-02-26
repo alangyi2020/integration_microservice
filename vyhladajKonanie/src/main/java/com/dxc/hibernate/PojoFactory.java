@@ -11,11 +11,12 @@ import java.util.List;
 
 public class PojoFactory {
     protected static PojoFactory factory = null;
-    protected Session session;
+    public Session session;
     protected Transaction tx;
     protected int Request_Items_id;
 
     private PojoFactory() throws ClassNotFoundException, SQLException {
+    	//HibernateUtil.getSessionFactory().
         session = HibernateUtil.getSessionFactory().openSession();
         tx = session.beginTransaction();
     }
@@ -134,13 +135,6 @@ public class PojoFactory {
         //session.save(req_items);
 
         sqlQuery query = new sqlQuery();
-        /*query.update("insert into soapdemo.Request_Items SET Request_Items_id = " + ri.getRequestItemsId() +
-                ",Service_Provider_id=" + ri.getServiceProviderId() +
-                        ",method_call_datetime =null,status = -1,Request_id = null, CSRU_Service_id = " + ri.getCsruServiceId() );*/
-        /*query.update("insert into soapdemo.Request_Items SET Request_Items_id = " + ri.getRequestItemsId() +
-                ",Service_Provider_id=" + ri.getServiceProviderId() +
-                ",method_call_datetime =null,status = -1,Request_id = null, CSRU_Service_id = " + ri.getCsruServiceId() );*/
-
         query.update(" insert into soapdemo.Request_Items (Request_Items_id,Service_Provider_id,status,CSRU_Service_id) VALUES (" + ri.getRequestItemsId() + "," +
                 ri.getServiceProviderId() + ",-1,"+ ri.getCsruServiceId() +")");
 
@@ -199,6 +193,48 @@ public class PojoFactory {
         request.setId(ri);
         session.save(request);
         return request;
+    }
+
+    public ServiceProvider getService_Provider(int Service_Provider_id) {
+        ServiceProvider sp = new ServiceProvider();
+        SQLQuery query = session.createSQLQuery("SELECT Service_Provider_id,wsdl_url,CSRU_Service_id,method_name FROM soapdemo.Service_Provider where  Service_Provider_id = " + Service_Provider_id);
+        List<Object[]> rows =  query.list();
+        for(Object[] row : rows){
+            sp.setServiceProviderId((Integer) row[0]);
+            sp.setWsdlUrl((String) row[1]);
+            sp.setCsruServiceId((Integer) row[2]);
+            sp.setMethodName((String) row[3]);
+
+        }
+        return sp;
+    }
+    
+    public List<RequestParameters> getRequest_parameters_by_SP_ID(int Service_Provider_id, List<RequestParameters> rp) {
+		List<RequestParameters> r_p =new ArrayList<RequestParameters>();
+		for(RequestParameters r_pp : rp) {
+			if(r_pp.getId().getServiceProviderId() == Service_Provider_id) {
+				r_p.add(r_pp);
+			}
+		}
+		
+		return r_p;
+	}
+    
+    public void updateRequest_Items(RequestItems ri) {
+    	System.out.println("ri= " + ri.toString());
+    	System.out.println("update = " + ri.toSave());
+    	System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+    	
+    	sqlQuery query = new sqlQuery();
+        query.update(ri.toSave());
+    	
+    	
+    }
+
+    public void insertIntoResponse(Response resp){
+        System.out.println("insert = " + resp.toSave(resp));
+        sqlQuery query = new sqlQuery();
+        query.update(resp.toSave(resp));
     }
 
 

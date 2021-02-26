@@ -6,6 +6,7 @@
         <module>vyhladajKonanie</module>
         <module>integracia</module>
         <module>soapServiceCall</module>
+        <module>common_tools</module>
     </modules>
     <dependencies>
 		<dependency>
@@ -70,6 +71,7 @@
 		<spring-context.version>5.3.4</spring-context.version>
 		<camel-spring.version>3.8.0</camel-spring.version>
 		<camel-cxf.version>3.8.0</camel-cxf.version>
+		<jackson-dataformat-xml.version>2.10.1</jackson-dataformat-xml.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
@@ -127,6 +129,13 @@
 				<artifactId>camel-cxf</artifactId>
 				<version>${camel-cxf.version}</version>
 			</dependency>
+			<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml -->
+			<dependency>
+    			<groupId>com.fasterxml.jackson.dataformat</groupId>
+    			<artifactId>jackson-dataformat-xml</artifactId>
+    			<version>${jackson-dataformat-xml.version}</version>
+			</dependency>
+			
 
 
 
