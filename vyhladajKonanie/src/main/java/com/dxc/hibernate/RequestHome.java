@@ -101,10 +101,10 @@ public class RequestHome {
         }
     }
 
-    public List findByExample(Request instance) {
+    public List<?> findByExample(Request instance) {
         log.debug("finding Request instance by example");
         try {
-            List results = sessionFactory.getCurrentSession()
+            List<?> results = sessionFactory.getCurrentSession()
                     .createCriteria("com.dxc.hibernate.Request").add(Example.create(instance)).list();
             log.debug("find by example successful, result size: " + results.size());
             return results;

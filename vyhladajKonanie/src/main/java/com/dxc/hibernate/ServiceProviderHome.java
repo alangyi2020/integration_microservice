@@ -101,10 +101,10 @@ public class ServiceProviderHome {
         }
     }
 
-    public List findByExample(ServiceProvider instance) {
+    public List<?> findByExample(ServiceProvider instance) {
         log.debug("finding ServiceProvider instance by example");
         try {
-            List results = sessionFactory.getCurrentSession()
+            List<?> results = sessionFactory.getCurrentSession()
                     .createCriteria("com.dxc.hibernate.ServiceProvider").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());

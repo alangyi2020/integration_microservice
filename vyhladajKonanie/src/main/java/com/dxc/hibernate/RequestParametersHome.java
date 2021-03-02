@@ -101,10 +101,10 @@ public class RequestParametersHome {
         }
     }
 
-    public List findByExample(RequestParameters instance) {
+    public List<?> findByExample(RequestParameters instance) {
         log.debug("finding RequestParameters instance by example");
         try {
-            List results = sessionFactory.getCurrentSession()
+            List<?> results = sessionFactory.getCurrentSession()
                     .createCriteria("com.dxc.hibernate.RequestParameters").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());

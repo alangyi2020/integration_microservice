@@ -101,10 +101,10 @@ public class ResponseHome {
         }
     }
 
-    public List findByExample(Response instance) {
+    public List<?> findByExample(Response instance) {
         log.debug("finding Response instance by example");
         try {
-            List results = sessionFactory.getCurrentSession()
+            List<?> results = sessionFactory.getCurrentSession()
                     .createCriteria("com.dxc_pojo_hibernate.hibernate.Response").add(Example.create(instance)).list();
             log.debug("find by example successful, result size: " + results.size());
             return results;

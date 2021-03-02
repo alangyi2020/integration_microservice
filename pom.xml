@@ -9,15 +9,21 @@
         <module>common_tools</module>
     </modules>
     <dependencies>
+    <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
+			<dependency>
+			    <groupId>org.apache.kafka</groupId>
+			    <artifactId>kafka-clients</artifactId>
+			    <version>2.7.0</version>
+			</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-autoconfigure</artifactId>
-			<version>2.4.3</version>
+			
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-test</artifactId>
-			<version>2.4.3</version>
+			
 			<scope>test</scope>
 		</dependency>
 		<dependency>
@@ -28,27 +34,26 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-api</artifactId>
-			<version>5.3.2</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-engine</artifactId>
-			<version>5.3.2</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
-			<version>5.3.4</version>
+			
 			<scope>test</scope>
 		</dependency>
+		
+		
 	</dependencies>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -72,9 +77,21 @@
 		<camel-spring.version>3.8.0</camel-spring.version>
 		<camel-cxf.version>3.8.0</camel-cxf.version>
 		<jackson-dataformat-xml.version>2.10.1</jackson-dataformat-xml.version>
+		<spring-beans.version>5.3.4</spring-beans.version>
+		<spring-kafka.version>2.6.6</spring-kafka.version>
+		<kafka-clients.version>2.7.0</kafka-clients.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.springframework.kafka/spring-kafka -->
+			<dependency>
+			    <groupId>org.springframework.kafka</groupId>
+			    <artifactId>spring-kafka</artifactId>
+			    <version>${spring-kafka.version}</version>
+			</dependency>
+			
+			
+		
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter</artifactId>
@@ -135,7 +152,12 @@
     			<artifactId>jackson-dataformat-xml</artifactId>
     			<version>${jackson-dataformat-xml.version}</version>
 			</dependency>
-			
+			<!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
+			<dependency>
+			    <groupId>org.springframework</groupId>
+			    <artifactId>spring-beans</artifactId>
+			    <version>${spring-beans.version}</version>
+			</dependency>
 
 
 
@@ -150,7 +172,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.8.1</version>
+				
 				<configuration>
 					<release>11</release>
 				</configuration>

@@ -97,10 +97,10 @@ public class CsroServiceHome {
         }
     }
 
-    public List findByExample(CsroService instance) {
+    public List<?> findByExample(CsroService instance) {
         log.debug("finding CsroService instance by example");
         try {
-            List results = sessionFactory.getCurrentSession()
+            List<?> results = sessionFactory.getCurrentSession()
                     .createCriteria("com.dxc.hibernate.CsroService").add(Example.create(instance))
                     .list();
             log.debug("find by example successful, result size: " + results.size());

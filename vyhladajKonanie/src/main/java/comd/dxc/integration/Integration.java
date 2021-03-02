@@ -1,8 +1,8 @@
 package comd.dxc.integration;
-
+/*
 import com.dxc.hibernate.HibernateUtil;
 import com.dxc.hibernate.sqlQuery;
-
+*/
 public class Integration {
     /*public static void main(String[] args) {
         sqlQuery myQuery = new sqlQuery();
