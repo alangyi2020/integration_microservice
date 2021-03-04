@@ -158,6 +158,14 @@
 			    <artifactId>spring-beans</artifactId>
 			    <version>${spring-beans.version}</version>
 			</dependency>
+<!-- https://mvnrepository.com/artifact/com.spotify/dockerfile-maven-plugin -->
+<dependency>
+    <groupId>com.spotify</groupId>
+    <artifactId>dockerfile-maven-plugin</artifactId>
+    <version>1.4.13</version>
+</dependency>
+
+			
 
 
 
@@ -177,7 +185,9 @@
 					<release>11</release>
 				</configuration>
 			</plugin>
-
+			
+			
+			
 
 		</plugins>
 
@@ -195,8 +205,11 @@
 					<artifactId>spring-boot-maven-plugin</artifactId>
 					<version>${spring-boot.version}</version>
 				</plugin>
+				
+					
 			</plugins>
 		</pluginManagement>
+		
 
 	</build>
 

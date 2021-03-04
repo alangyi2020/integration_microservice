@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  integraciae:
+    image: ${GROUP_ID}/integration.microservice:${SERVICE_VERSION:-latest}
+    ports:
+      - "5005:5005"
+    volumes:
+      - "./docker-logs:/workspace/integration-service/logs"
+    environment:
+      - "JAVA_OPTS=-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005 -Xms128m -Xmx256m"
+      - "LOGGING_LEVEL_COM_DXC=info"
+      - "LOGGING_LEVEL_ROOT=info"      
+    networks:
+      - ${GLOBAL_NETWORK:-services}

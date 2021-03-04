@@ -1,0 +1,72 @@
+<getKonanieDetailResponse>
+  <Konanie>
+    <Id>47179</Id>
+    <SpisovaZnackaSpravcu/>
+    <SpisovaZnackaSudu>9OdK/382/2019</SpisovaZnackaSudu>
+    <Typ>ODDLZENIE_KONKURZ</Typ>
+    <Navrhovatel>
+      <Meno>Ignác</Meno>
+      <Priezvisko>Baliar</Priezvisko>
+      <TitulPredMenom/>
+      <TitulZaMenom/>
+      <RodneCislo/>
+      <DatumNarodenia>1970-11-16 00:00:00</DatumNarodenia>
+      <StatneObcianstvo/>
+      <Adresa>
+        <Ulica/>
+        <SupisneCislo/>
+        <OrientacneCislo/>
+        <Obec>Kysucké Nové Mesto</Obec>
+        <Psc>02401</Psc>
+        <Krajina>SVK</Krajina>
+      </Adresa>
+      <Telefon/>
+      <Email></Email>
+      <BankovyUcet/>
+    </Navrhovatel>
+    <Dlznik>
+      <Meno>Ignác</Meno>
+      <Priezvisko>Baliar</Priezvisko>
+      <TitulPredMenom/>
+      <TitulZaMenom/>
+      <RodneCislo/>
+      <DatumNarodenia>1970-11-16 00:00:00</DatumNarodenia>
+      <StatneObcianstvo/>
+      <Adresa>
+        <Ulica/>
+        <SupisneCislo/>
+        <OrientacneCislo/>
+        <Obec>Kysucké Nové Mesto</Obec>
+        <Psc>02401</Psc>
+        <Krajina>SVK</Krajina>
+      </Adresa>
+      <Telefon/>
+      <Email></Email>
+      <BankovyUcet/>
+    </Dlznik>
+    <Sud>
+      <id>131</id>
+      <nazov>Okresný súd Žilina</nazov>
+    </Sud>
+    <Sudca>Mgr. Antónia Ďuranová</Sudca>
+    <Spravca>
+      <Znacka>S1832</Znacka>
+      <DatumZapisu>2017-02-23 00:00:00</DatumZapisu>
+      <Meno>Rastislav</Meno>
+      <Priezvisko>Palutka</Priezvisko>
+      <TitulPredMenom>JUDr. Ing.</TitulPredMenom>
+      <TitulZaMenom>LL.M.</TitulZaMenom>
+      <DatumNarodenia>1971-05-18 00:00:00</DatumNarodenia>
+      <ObchodneMeno/>
+      <Ico/>
+      <Adresa/>
+      <Telefon/>
+      <Email/>
+    </Spravca>
+    <DatumZacatiaKonania/>
+    <DatumZacatiaProcesu>2019-12-19 00:00:00</DatumZacatiaProcesu>
+    <TypSpravcu>RIADNY</TypSpravcu>
+    <TypPrideleniaSpravcu/>
+    <TypKonaniaPodlaUzemnejPlatnosti/>
+  </Konanie>
+</getKonanieDetailResponse>

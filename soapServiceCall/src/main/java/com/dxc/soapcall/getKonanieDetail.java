@@ -15,7 +15,7 @@ public class getKonanieDetail {
 	//@Async
 	public String callgetKonanieDetail(int request_id) throws SQLException {
         String return_value = "";
-        String outDir = "/home/dxc/java/" + request_id;
+        String outDir = "~/" + request_id;
 
         PojoFactory factory = PojoFactory.getInstance();
         try {
