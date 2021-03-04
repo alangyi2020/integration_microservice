@@ -1,6 +1,8 @@
 package com.dxc.integration.microservice;
 
 import com.dxc.hibernate.HibernateUtil;
+
+
 import com.dxc.integration.microservice.runner.StreamRunner;
 import com.dxc.integration.microservice.init.StreamInitializer;
 
@@ -15,7 +17,12 @@ import org.slf4j.LoggerFactory;
 
 import javax.annotation.PreDestroy;
 
-
+/*
+ * mvn clean install
+ * mvn docker:build
+ * cd .docker-compose
+ * docker-compose -f common.yml  -f services.yml up
+ */
 
 @SpringBootApplication
 @ComponentScan(basePackages = "com.dxc")

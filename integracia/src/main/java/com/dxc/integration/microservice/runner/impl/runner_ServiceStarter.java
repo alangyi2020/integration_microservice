@@ -47,7 +47,7 @@ public class runner_ServiceStarter extends StreamRunner {
 
 		for (;;) {
 			int count = taskExecutor.getActiveCount();
-			System.out.println("Active Threads : " + count);
+			//System.out.println("Active Threads : " + count);
 			try {
 				Thread.sleep(1000);
 			} catch (InterruptedException e) {
