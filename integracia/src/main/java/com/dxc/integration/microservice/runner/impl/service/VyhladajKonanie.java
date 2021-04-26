@@ -31,7 +31,7 @@ import org.apache.kafka.common.serialization.StringDeserializer;
 public class VyhladajKonanie implements Runnable{
 	
 	String name;
-	String bootstrapServer = "192.168.80.131:9092";
+	String bootstrapServer = "127.0.0.1:9092";
     String groupId = "vyhladajkonanie";
     String topic = "konanie";
     
@@ -191,7 +191,7 @@ public class VyhladajKonanie implements Runnable{
     					String soapResult = sc.callVyhladajKonanie(Integer.parseInt(record.value()));
     					LOG.info("Soapcall vyhladajKonanie returned value: " + soapResult);
     					
-    					String bootstrapServers= "192.168.80.131:9092";;
+    					String bootstrapServers= "127.0.0.1:9092";;
 						resultsProducer producerComplete = new resultsProducer(bootstrapServers, "vyhladajKonanie_Complete");
 						producerComplete.produceToTopic(soapResult + "|1");
     					} catch (Exception e) {

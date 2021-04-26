@@ -29,7 +29,7 @@ import org.slf4j.LoggerFactory;
 public class GetResult implements Runnable{
 	
 	String name;
-	String bootstrapServer = "192.168.80.131:9092";
+	String bootstrapServer = "127.0.0.1:9092";
     String groupId = "thread";
     String topic = "konanie";
     private static KafkaConsumer<String, String> consumer;
@@ -76,7 +76,7 @@ sqlQuery myQuery = new sqlQuery();
 				
 		//subscribe to consumer
 		KafkaConsumer<String, String> consumer =new KafkaConsumer<String, String>(properties);
-		consumer.subscribe(Arrays.asList("getKonanieDetail_Complete","vyhladajKonanie_Complete"));
+		consumer.subscribe(Arrays.asList("getKonanieDetail_Complete","vyhladajKonanie_Complete","getZoznamSudov_Complete"));
 		//consumer.subscribe(Arrays.asList(topic));
 		
 		resultsProducer producerComplete = new resultsProducer(bootstrapServer, "konanie_Complete");
@@ -199,7 +199,7 @@ sqlQuery myQuery = new sqlQuery();
                         try {
                         
 	                        Properties propertiesprod = new Properties();
-	                		String bootstrapServers ="192.168.80.131:9092";
+	                		String bootstrapServers ="127.0.0.1:9092";
 							propertiesprod.setProperty(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, bootstrapServers  );
 	                		propertiesprod.setProperty(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getName() );
 	                		propertiesprod.setProperty(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getName()  );

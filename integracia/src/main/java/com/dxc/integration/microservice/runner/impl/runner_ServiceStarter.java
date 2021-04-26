@@ -4,6 +4,7 @@ import com.dxc.integration.microservice.config.AppConfig;
 import com.dxc.integration.microservice.runner.StreamRunner;
 import com.dxc.integration.microservice.runner.impl.service.GetKonanieDetail;
 import com.dxc.integration.microservice.runner.impl.service.GetResult;
+import com.dxc.integration.microservice.runner.impl.service.GetZoznamSudov;
 import com.dxc.integration.microservice.runner.impl.service.VyhladajKonanie;
 
 import java.io.Closeable;
@@ -39,6 +40,10 @@ public class runner_ServiceStarter extends StreamRunner {
 		getKonanieDetail.setName("GetKonanieDetail");
 		taskExecutor.execute(getKonanieDetail);
 		
+		GetZoznamSudov getZoznamSudov = (GetZoznamSudov) context.getBean("getZoznamSudov");
+		getZoznamSudov.setName("GetZoznamSudov");
+		taskExecutor.execute(getZoznamSudov);
+		 
 		GetResult getResult = (GetResult) context.getBean("getResult");
 		getResult.setName("GetResult");
 		taskExecutor.execute(getResult);

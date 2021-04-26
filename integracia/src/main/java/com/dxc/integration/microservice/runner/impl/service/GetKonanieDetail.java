@@ -28,7 +28,7 @@ import org.slf4j.LoggerFactory;
 public class GetKonanieDetail implements Runnable{
 	
 	String name;
-	String bootstrapServer = "192.168.80.131:9092";
+	String bootstrapServer = "127.0.0.1:9092";
     String groupId = "getkonaniedetail";
     String topic = "konanie";
     
@@ -186,7 +186,7 @@ public class GetKonanieDetail implements Runnable{
     					String soapResult = sc.callgetKonanieDetail(Integer.parseInt(record.value()));
     					LOG.info("Soapcall getKonanieDetail returned value: " + soapResult);
     					
-    					String bootstrapServers= "192.168.80.131:9092";;
+    					String bootstrapServers= "127.0.0.1:9092";;
 						resultsProducer producerComplete = new resultsProducer(bootstrapServers, "getKonanieDetail_Complete");
 						producerComplete.produceToTopic(soapResult + "|1");
     					} catch (Exception e) {

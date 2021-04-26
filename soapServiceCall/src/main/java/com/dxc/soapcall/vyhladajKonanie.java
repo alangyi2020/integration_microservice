@@ -15,7 +15,7 @@ import java.util.List;
 public class vyhladajKonanie {
     public String callVyhladajKonanie(int request_id) throws SQLException {
         String return_value = "";
-        String outDir = "~/" + request_id;
+        String outDir = "/tmp/" + request_id;
 
         PojoFactory factory = PojoFactory.getInstance();
         try {
