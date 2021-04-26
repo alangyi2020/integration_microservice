@@ -1,0 +1,2205 @@
+<vyhladajKonanieResponse>
+  <KonanieInfoList>
+    <KonanieInfo>
+      <Id>61273</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>33K/34/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-03-10 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-12-29 00:00:00</DatumPodania>
+      <Dlznik>MIKO group s. r. o.</Dlznik>
+      <DlznikIco>45721424</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-09 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca/>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61956</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>33OdK/22/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-03-10 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-02-02 00:00:00</DatumPodania>
+      <Dlznik>Letenaj Richard</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1978-12-26 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-09 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>KONRES k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59561</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/257/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-13 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Mileszko Igor</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1968-07-05 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Kozár Štefan, Ing. Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>50158</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>1OdK/26/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-02-12 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-01-27 00:00:00</DatumPodania>
+      <Dlznik>Plevko Štefan, Ing.</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1957-09-12 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>HMG Recovery, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>42779</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>37OdK/355/2019</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-09-21 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-08-08 00:00:00</DatumPodania>
+      <Dlznik>Martináková Jaroslava</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1960-08-25 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Pospíšil &amp; Partners, k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>57525</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4OdK/34/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-31 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-08-06 00:00:00</DatumPodania>
+      <Dlznik>Reindlová Rozália</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1973-03-10 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Antonič Tomáš, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>12541</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>6OdK/75/2017</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-09-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2017-09-13 00:00:00</DatumPodania>
+      <Dlznik>Strašifták Vlastimil</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1964-06-02 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>HMG Recovery, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>4042</Id>
+      <SpisovaZnackaSpravcu>31K/62/2013 S1314</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>31K/62/2013</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2014-02-07 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2014-02-19 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2020-03-03 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2013-12-11 00:00:00</DatumPodania>
+      <Dlznik>Szilárd Sütö</Dlznik>
+      <DlznikIco>41453859</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Zvara Peter, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>62278</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29K/1/2021</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-03-06 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-02-18 00:00:00</DatumPodania>
+      <Dlznik>VUNAR PRODUCT, a.s.</Dlznik>
+      <DlznikIco>36405078</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-05 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca/>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>62371</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>3OdK/8/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-03-06 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-02-15 00:00:00</DatumPodania>
+      <Dlznik>Neslušan Jozef</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1963-05-11 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-05 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Slovenská konkurzná a reštrukturalizačná, k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60110</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>28OdK/264/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-21 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-03-05 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>SPLNENIE_ROZVRHU_VYTAZKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-11-05 00:00:00</DatumPodania>
+      <Dlznik>Csóková Denisa</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1978-04-08 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-04 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Koukalová Milada, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58863</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>2OdK/164/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-21 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-10-02 00:00:00</DatumPodania>
+      <Dlznik>Flajs Zdenko</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1973-08-30 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-04 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Nižňanský Jaroslav, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59558</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>28OdK/257/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-14 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Haník Jaroslav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1984-01-05 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-04 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>HMG Recovery, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>35742</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30K/2/2019</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2019-05-15 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2019-10-16 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-04-03 00:00:00</DatumPodania>
+      <Dlznik>HLIVASPOL, s.r.o.</Dlznik>
+      <DlznikIco>36554367</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-04 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Bilský Erik, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>62062</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>38OdK/20/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-13 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-27 00:00:00</DatumPodania>
+      <Dlznik>Mazanec Petr</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1952-07-31 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-04 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Hurtiš Martin, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59553</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/256/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-11 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-03-04 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Lencsésová Monika</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1981-05-21 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-03 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Kovácsová Radoslava, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58395</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29K/4/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2020-10-08 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2020-12-12 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-09-22 00:00:00</DatumPodania>
+      <Dlznik>ALFA BUILD s.r.o.</Dlznik>
+      <DlznikIco>47471999</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Zdychavský Miroslav, Mgr. Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>50864</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/42/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-02-19 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-03-03 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-02-03 00:00:00</DatumPodania>
+      <Dlznik>Cicko Ivan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1971-08-04 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Podunajská konkurzná k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>62286</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>40OdK/35/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-02-09 00:00:00</DatumPodania>
+      <Dlznik>Dedík Miloš</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1978-05-10 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Zajac Peter, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>62154</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/33/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-03-03 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-02-10 00:00:00</DatumPodania>
+      <Dlznik>Rusňáková Mária</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1958-08-01 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Duchoňová Ivana, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>62155</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/34/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-03-03 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-02-10 00:00:00</DatumPodania>
+      <Dlznik>Rusňák Peter</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1949-06-28 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Duchoňová Ivana, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>8868</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4R/1/2014</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2014-07-16 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2014-07-16 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2014-04-10 00:00:00</DatumPodania>
+      <Dlznik>REaMOS, spol. s r.o.</Dlznik>
+      <DlznikIco></DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Birka Radovan, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>35379</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>37OdK/97/2019</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-05-08 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-03-26 00:00:00</DatumPodania>
+      <Dlznik>Begányiová Alena</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1979-04-26 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-01 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Bašnák Juraj, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>55044</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>38OdK/214/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-05-14 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-04-15 00:00:00</DatumPodania>
+      <Dlznik>Hudcovský Branislav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1973-04-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-01 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Macík Juraj, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>56445</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>31OdK/178/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-07-14 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-03-02 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-06-26 00:00:00</DatumPodania>
+      <Dlznik>Kováčová Mária</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1959-06-05 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-03-01 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Reguli Lukáš, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>27463</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/81/2018</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2018-10-12 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2018-09-26 00:00:00</DatumPodania>
+      <Dlznik>Laczkóová Gabriela</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1981-04-02 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-26 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Reguli Lukáš, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>42963</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/171/2019</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-09-03 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-26 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2019-08-12 00:00:00</DatumPodania>
+      <Dlznik>Filip Ján</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1976-07-08 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-25 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Holečková Martina, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60373</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/535/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-22 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-20 00:00:00</DatumPodania>
+      <Dlznik>Gálik Rastislav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1975-04-18 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-25 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Hanáček Martin, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60389</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/274/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-02 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-26 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-11-12 00:00:00</DatumPodania>
+      <Dlznik>Nagyová Silvia</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1974-08-12 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-25 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Nagy Roman, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61178</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>31OdK/293/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-01-01 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-25 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-12-16 00:00:00</DatumPodania>
+      <Dlznik>Farkašová Michaela</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1972-11-02 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-24 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>ADVO INSOLVENCY, k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58763</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4OdK/69/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-25 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-06 00:00:00</DatumPodania>
+      <Dlznik>Podmanický Henrich</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1968-06-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-24 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Letkovský Marek, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>51558</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27K/9/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2020-08-07 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2020-10-15 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-02-24 00:00:00</DatumPodania>
+      <Dlznik>STAVEBNINY MAXI, s. r. o. v likvidácii</Dlznik>
+      <DlznikIco>45372039</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-24 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Lenková Jana, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61192</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27K/51/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-02-13 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-12-23 00:00:00</DatumPodania>
+      <Dlznik>Feriva Advertising s.r.o.</Dlznik>
+      <DlznikIco>35840251</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-23 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>iTRUSTee Recovery, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61281</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27K/52/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-02-13 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-12-30 00:00:00</DatumPodania>
+      <Dlznik>AGATEX, s.r.o.</Dlznik>
+      <DlznikIco>31376461</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-23 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Správcovská kancelária Betáková Krkošková, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61721</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4OdK/18/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-19 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-26 00:00:00</DatumPodania>
+      <Dlznik>Hrotková Anna</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1971-03-04 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-23 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Baran Róbert, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61384</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27K/2/2021</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-02-24 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-11 00:00:00</DatumPodania>
+      <Dlznik>GURMÁN FESTIVALY s. r. o., v likvidacii</Dlznik>
+      <DlznikIco>50610031</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-23 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca/>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58666</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/237/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-27 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-24 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>ZIADNY_VERITEL</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-09 00:00:00</DatumPodania>
+      <Dlznik>Keleberc Norbert</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1977-04-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-23 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Christov Tomáš, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61801</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27K/3/2021</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-02-24 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-29 00:00:00</DatumPodania>
+      <Dlznik>Lasing, s.r.o.</Dlznik>
+      <DlznikIco>36602523</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-23 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca/>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60296</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/270/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-10 00:00:00</DatumPodania>
+      <Dlznik>Schleichová Andrea</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1981-03-09 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-22 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Štofková Petra, Ing. JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>47754</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>3OdK/398/2019</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-12-28 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-23 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2019-12-10 00:00:00</DatumPodania>
+      <Dlznik>Štancel Peter</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1990-07-22 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-22 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Ďurmanová Gabriela, Mgr. Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>55186</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>28OdK/126/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-05-16 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-04-29 00:00:00</DatumPodania>
+      <Dlznik>Čelková Milana</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1977-09-12 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-19 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Fardous Fadi, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61786</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/7/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-18 00:00:00</DatumPodania>
+      <Dlznik>Danko Gejza</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1956-08-10 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-19 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Dubecová Nina, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>57899</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4OdK/46/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-27 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-20 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-08-20 00:00:00</DatumPodania>
+      <Dlznik>Illéš Štefan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1977-07-12 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-19 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>KRIVANKON, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59375</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>40OdK/442/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-31 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-20 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-12 00:00:00</DatumPodania>
+      <Dlznik>Oláhová Viola</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1957-08-22 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-19 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Gelatka Bohuslav, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58674</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/238/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-23 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-19 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-09 00:00:00</DatumPodania>
+      <Dlznik>Čičo Tibor</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1962-05-22 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-18 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Fardous Fadi, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>44337</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>32OdK/206/2019</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-09-25 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-09-04 00:00:00</DatumPodania>
+      <Dlznik>Gáliková Dana</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-07-29 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-18 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Kulich Jozef, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60872</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>28OdK/283/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-17 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-30 00:00:00</DatumPodania>
+      <Dlznik>Prodovský Ivan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1976-08-17 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-18 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Štorek Erik, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61920</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>38OdK/28/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-13 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-29 00:00:00</DatumPodania>
+      <Dlznik>Kolečanský Marian</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1974-03-03 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-18 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>TPS Trustees, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>5867</Id>
+      <SpisovaZnackaSpravcu>32K/2/2016 S1719</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>32K/2/2016</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2016-02-13 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2016-04-21 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2016-01-22 00:00:00</DatumPodania>
+      <Dlznik>Poláček Peter</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1968-05-21 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-18 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Lenková Jana, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59556</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/257/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-13 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-18 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Barantál Milan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1958-11-23 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-17 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Timoranská Tatiana, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>51039</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>32OdK/18/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-03-10 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-16 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-02-04 00:00:00</DatumPodania>
+      <Dlznik>Novarová Andrea</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1986-03-31 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-15 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Hrivňáková Margita, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>57486</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>1K/12/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2020-09-15 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2020-11-19 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-08-06 00:00:00</DatumPodania>
+      <Dlznik>BOPAL, s.r.o.</Dlznik>
+      <DlznikIco>36557293</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-15 00:00:00</DatumPoslednejUdalosti>
+      <Sud>156</Sud>
+      <SudNazov>Okresný súd Prešov</SudNazov>
+      <Spravca>Beňo Jozef, JUDr., PhD.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>56454</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/179/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-07-11 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-16 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-06-26 00:00:00</DatumPodania>
+      <Dlznik>Szabóová Kristína</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1987-12-07 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-15 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca/>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>39137</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>9K/5/2019</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2019-06-18 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2019-10-09 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-05-31 00:00:00</DatumPodania>
+      <Dlznik>SK - METAL, s.r.o.</Dlznik>
+      <DlznikIco>36433128</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-15 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>I&amp;R KONKURZY A REŠTRUKTURALIZÁCIE,k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>26779</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/197/2018</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2018-09-18 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-16 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2018-08-31 00:00:00</DatumPodania>
+      <Dlznik>Nyári Zoltán</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1961-06-01 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-15 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Barkoci Stanislav, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61778</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/10/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-19 00:00:00</DatumPodania>
+      <Dlznik>Cseres Peter</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-04-28 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-12 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Fardous Fadi, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>3980</Id>
+      <SpisovaZnackaSpravcu>32K/69/2012 S1528</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>32K/69/2012</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2013-01-04 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2013-01-17 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2012-11-07 00:00:00</DatumPodania>
+      <Dlznik>Štefánik Róbert</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1969-05-13 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-12 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Barkoci Stanislav, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59544</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>2OdK/175/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-10-19 00:00:00</DatumPodania>
+      <Dlznik>Lisková Anna</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1960-03-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-11 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Insolvency services, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61583</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/17/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-21 00:00:00</DatumPodania>
+      <Dlznik>Cseresová Mária</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-05-07 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-11 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Správcovský dom, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61784</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/14/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-20 00:00:00</DatumPodania>
+      <Dlznik>Harmat Marián</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1972-01-05 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-11 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>JUDr. VANS Andrej Aurélius k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>8358</Id>
+      <SpisovaZnackaSpravcu>4K/58/2016 S1313</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>4K/58/2016</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2016-12-20 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2017-01-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-12 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>SPLNENIE_KONECNEHO_ROZVRHU</DovodUkonceniaProcesu>
+      <DatumPodania>2016-11-04 00:00:00</DatumPodania>
+      <Dlznik>Ihnát Miloš</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1956-09-16 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-11 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Nosková Milena, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>41592</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>7OdK/228/2019</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2019-07-27 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-07-10 00:00:00</DatumPodania>
+      <Dlznik>Mazúr Jozef</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-06-11 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-11 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Kadura Lubomír, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58422</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>26K/13/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2020-11-19 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu>2021-02-11 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-09-25 00:00:00</DatumPodania>
+      <Dlznik>COLMONT, spol. s r.o. v likvidácii</Dlznik>
+      <DlznikIco>46093681</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-10 00:00:00</DatumPoslednejUdalosti>
+      <Sud>148</Sud>
+      <SudNazov>Okresný súd Košice I</SudNazov>
+      <Spravca>Správcovská a poradenská, k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZASTAVENE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61850</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/16/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-10 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-27 00:00:00</DatumPodania>
+      <Dlznik>Demeterová Viola</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1978-03-18 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-10 00:00:00</DatumPoslednejUdalosti>
+      <Sud>148</Sud>
+      <SudNazov>Okresný súd Košice I</SudNazov>
+      <Spravca>KRÁLIK &amp; PARTNERS, konkurzy a reštrukturalizácie</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60295</Id>
+      <SpisovaZnackaSpravcu>29OdK/271/2020 S1409</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>29OdK/271/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-10 00:00:00</DatumPodania>
+      <Dlznik>Lakatos Anton</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1948-10-05 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-09 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Ďuran Marek, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59796</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/262/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-13 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-10 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-29 00:00:00</DatumPodania>
+      <Dlznik>Kóšová Iveta</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1969-06-06 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-09 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Solár Erik, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>53410</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>28OdK/105/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-04-22 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-03-28 00:00:00</DatumPodania>
+      <Dlznik>Kiss Ladislav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1970-11-18 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-09 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Ponesz Aneta, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>56723</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/427/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-20 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-09 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-07-08 00:00:00</DatumPodania>
+      <Dlznik>Mikulenčák Anton</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1977-10-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Baran Róbert, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61711</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/10/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-03 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-19 00:00:00</DatumPodania>
+      <Dlznik>Oravcová Jarmila</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-10-01 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Christov Tomáš, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60277</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/271/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-10 00:00:00</DatumPodania>
+      <Dlznik>Kotlár Norbert</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1972-10-09 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Bojda Peter, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59778</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4OdK/103/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-08 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-04 00:00:00</DatumPodania>
+      <Dlznik>Rozputinský Ondrej</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1973-12-28 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-08 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Veterníková Mária, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61651</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>40OdK/5/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-02 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-15 00:00:00</DatumPodania>
+      <Dlznik>Bobek Milan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1986-01-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-05 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Košara Matúš, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59817</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>4OdK/104/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-08 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-11-05 00:00:00</DatumPodania>
+      <Dlznik>Sucha Rastislav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1993-11-27 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-05 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Lukáčiková Edita, JUDr. Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61299</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30K/7/2020</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2021-01-23 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu/>
+      <DatumUkonceniaProcesu>2021-02-04 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-12-31 00:00:00</DatumPodania>
+      <Dlznik>Auto Trader EU s.r.o. "v likvidácii"</Dlznik>
+      <DlznikIco>44465211</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-03 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca/>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZASTAVENE_KONANIE</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>6475</Id>
+      <SpisovaZnackaSpravcu>2K/26/2016 S1799</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>2K/26/2016</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2016-06-02 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2016-06-15 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2019-07-25 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>SPLNENIE_KONECNEHO_ROZVRHU</DovodUkonceniaProcesu>
+      <DatumPodania>2016-05-11 00:00:00</DatumPodania>
+      <Dlznik>Lengyelová Veronika</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1979-01-29 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-03 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Krumpolcová Šutková Mária, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61438</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/3/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-01-22 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-08 00:00:00</DatumPodania>
+      <Dlznik>Major Róbert</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1987-01-05 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-03 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>LawService Recovery, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61453</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/4/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-01-23 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-08 00:00:00</DatumPodania>
+      <Dlznik>Mojzes Marek</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1980-08-18 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-03 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Belica Miroslav, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61501</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>1OdK/1/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-01-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-07 00:00:00</DatumPodania>
+      <Dlznik>Mravec Miroslav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1978-08-03 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-03 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Kadáková Mária, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61709</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/12/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-02-03 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-19 00:00:00</DatumPodania>
+      <Dlznik>Csicsóová Barbora</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1970-05-08 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Kulich Jozef, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>42324</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>3K/6/2019</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2019-08-28 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2019-12-19 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2019-07-12 00:00:00</DatumPodania>
+      <Dlznik>Tae Young Euro s.r.o.</Dlznik>
+      <DlznikIco>50805118</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Maďarová Lenka, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>2827</Id>
+      <SpisovaZnackaSpravcu>2K/11/2015 S1674</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>2K/11/2015</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2015-08-14 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2016-06-09 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2015-08-03 00:00:00</DatumPodania>
+      <Dlznik>REHA, spol. s r.o.</Dlznik>
+      <DlznikIco>31607136</DlznikIco>
+      <DlznikDatumNarodenia/>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-02 00:00:00</DatumPoslednejUdalosti>
+      <Sud>131</Sud>
+      <SudNazov>Okresný súd Žilina</SudNazov>
+      <Spravca>Miho Michal, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60347</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>28OdK/271/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-28 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-02 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-11-10 00:00:00</DatumPodania>
+      <Dlznik>Kukuková Eva</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1964-09-18 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-01 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Správcovský dom, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59542</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>31OdK/256/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-14 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-02-02 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Hugyecz Peter</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1978-02-06 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-01 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>KASATKIN Recovery, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>57546</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/449/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-21 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-08-05 00:00:00</DatumPodania>
+      <Dlznik>Ormandy Roman</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1975-04-06 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-02-01 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Rieglová Edita, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>61497</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/2/2021</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2021-01-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2021-01-07 00:00:00</DatumPodania>
+      <Dlznik>Lábadyová Alžbeta</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1976-08-12 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-29 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>G &amp; B KONKURZY A REŠTRUKTURALIZÁCIE, k.s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>54906</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/126/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-05-20 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-30 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-04-29 00:00:00</DatumPodania>
+      <Dlznik>Bogdány Juraj</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1974-02-28 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-29 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Fülöpová Jana, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60294</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/273/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-30 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-11-11 00:00:00</DatumPodania>
+      <Dlznik>Lakatosová Eva</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1976-12-21 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-29 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Valent Jaromír, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59522</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/255/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-11 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-30 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Forišek Milan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1982-06-17 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-29 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Ivan Rudolf, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59854</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/256/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-14 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-29 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-28 00:00:00</DatumPodania>
+      <Dlznik>Takácsová Annamária</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1987-06-29 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-28 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Brláš Ondrej, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60385</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>23OdK/270/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-01 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-29 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-11-10 00:00:00</DatumPodania>
+      <Dlznik>Horváthová Mária</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1972-03-21 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-28 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Budniková Mária, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>59655</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/518/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-12-05 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-10-30 00:00:00</DatumPodania>
+      <Dlznik>Priesolová Lucia</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1986-03-03 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-28 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Bláha Bohumír, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>30944</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>40OdK/537/2018</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2018-12-28 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-29 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2018-11-29 00:00:00</DatumPodania>
+      <Dlznik>Vnučko Peter</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1980-07-04 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-28 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Súkeník Ján, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58470</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>30OdK/225/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-21 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-28 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>ZIADNY_VERITEL</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-02 00:00:00</DatumPodania>
+      <Dlznik>Benczeová Marcela, Mgr.</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1976-11-11 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-27 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Barát Ladislav, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>16651</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>31OdK/58/2018</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2018-07-13 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-28 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2018-01-24 00:00:00</DatumPodania>
+      <Dlznik>Katona Florián</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1951-07-17 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-27 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>SKP, k. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58464</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>29OdK/225/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-23 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-28 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>SPLNENIE_ROZVRHU_VYTAZKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-10-02 00:00:00</DatumPodania>
+      <Dlznik>Kozár Marián</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1973-04-13 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-27 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Barát Ladislav, Mgr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>53620</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>40OdK/169/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-04-10 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-27 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-03-10 00:00:00</DatumPodania>
+      <Dlznik>Toráčová Eva</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-07-21 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-26 00:00:00</DatumPoslednejUdalosti>
+      <Sud>117</Sud>
+      <SudNazov>Okresný súd Trenčín</SudNazov>
+      <Spravca>Bustinová Mária, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>57943</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>33OdK/93/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-27 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-26 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-08-21 00:00:00</DatumPodania>
+      <Dlznik>Kiss Štefan</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1977-11-14 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-25 00:00:00</DatumPoslednejUdalosti>
+      <Sud>102</Sud>
+      <SudNazov>Okresný súd Bratislava I</SudNazov>
+      <Spravca>Hríňová Andrea, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>4092</Id>
+      <SpisovaZnackaSpravcu>31K/18/2015 S1453</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>31K/18/2015</SpisovaZnackaSudu>
+      <Typ>KONKURZ</Typ>
+      <DatumZacatiaKonania>2015-04-02 00:00:00</DatumZacatiaKonania>
+      <DatumZacatiaProcesu>2015-04-14 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2015-03-11 00:00:00</DatumPodania>
+      <Dlznik>Kovács Ladislav</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1974-08-16 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-25 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Ivan Rudolf, Ing.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>60290</Id>
+      <SpisovaZnackaSpravcu/>
+      <SpisovaZnackaSudu>27OdK/273/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-11-26 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu>2021-01-23 00:00:00</DatumUkonceniaProcesu>
+      <DovodUkonceniaProcesu>NEDOSTATOK_MAJETKU</DovodUkonceniaProcesu>
+      <DatumPodania>2020-11-11 00:00:00</DatumPodania>
+      <Dlznik>Dömeová Veronika</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1967-04-13 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-22 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Konkurzná a Reštrukturalizačná, v. o. s.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>SKONCENY_PROCES</StavKonania>
+    </KonanieInfo>
+    <KonanieInfo>
+      <Id>58669</Id>
+      <SpisovaZnackaSpravcu>27OdK/238/2020 S1409</SpisovaZnackaSpravcu>
+      <SpisovaZnackaSudu>27OdK/238/2020</SpisovaZnackaSudu>
+      <Typ>ODDLZENIE_KONKURZ</Typ>
+      <DatumZacatiaKonania/>
+      <DatumZacatiaProcesu>2020-10-24 00:00:00</DatumZacatiaProcesu>
+      <DatumUkonceniaProcesu/>
+      <DovodUkonceniaProcesu/>
+      <DatumPodania>2020-10-09 00:00:00</DatumPodania>
+      <Dlznik>Hanuliaková Zuzana</Dlznik>
+      <DlznikIco/>
+      <DlznikDatumNarodenia>1983-03-15 00:00:00</DlznikDatumNarodenia>
+      <PoslednaUdalost/>
+      <DatumPoslednejUdalosti>2021-01-22 00:00:00</DatumPoslednejUdalosti>
+      <Sud>124</Sud>
+      <SudNazov>Okresný súd Nitra</SudNazov>
+      <Spravca>Ďuran Marek, JUDr.</Spravca>
+      <TypSpravcu/>
+      <TypPrideleniaSpravcu/>
+      <StavKonania>ZACATY_PROCES_KONANIA</StavKonania>
+    </KonanieInfo>
+  </KonanieInfoList>
+  <VysledkovCelkom>1337</VysledkovCelkom>
+</vyhladajKonanieResponse>
